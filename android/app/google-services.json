@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599422895989",
+    "project_id": "campus-gear-share",
+    "storage_bucket": "campus-gear-share.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599422895989:android:5937c1cb660abe008bf53c",
+        "android_client_info": {
+          "package_name": "com.example.campus_gear_share"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5XFr_JciNpuGr8x69KIOdU0HpgmU92Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
